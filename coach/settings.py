@@ -27,7 +27,7 @@ SECRET_KEY = '=z&zgcqm=*hx_k-kguwpx3l4l7d@y-0zzv18a)vxrk3c*n0y4w'
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['alucinacao.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['coachquantico.herokuapp.com', 'localhost']
 
 
 # Application definition
